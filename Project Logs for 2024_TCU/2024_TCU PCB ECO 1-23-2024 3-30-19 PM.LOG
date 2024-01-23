@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=U_MicroSD Member=C39
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=ETH_TX_P
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=ETH_TX_N
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=ETH_RX_P
+Change Net Name : Old Net Name=NetJ2_6 New Net Name=ETH_RX_N
+Change Net Name : Old Net Name=RX+ New Net Name=RX_P
+Change Net Name : Old Net Name=RX- New Net Name=RX_N
+Change Net Name : Old Net Name=TX+ New Net Name=TX_P
+Change Net Name : Old Net Name=TX- New Net Name=TX_N
+Added Differential Pair: Name=ETH_RX
+Added Differential Pair: Name=ETH_TX
+Added Differential Pair: Name=RX
+Added Differential Pair: Name=TX
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component C13 C1005X5R1A475K050BC
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component C15 C0603X104K5RACTU
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component C18 C0603X104K5RACTU
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component C20 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Oscillator Member=Component C23 06035A160JAT2A
+Added Member To Class: ClassName=U_IMU Member=Component C25 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Ethernet Member=Component C28 VJ0805Y103KXBBC31
+Added Member To Class: ClassName=U_Ethernet Member=Component C30 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Ethernet Member=Component C32 T491B106K025AT
+Added Member To Class: ClassName=U_Ethernet Member=Component C34 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Ethernet Member=Component C36 TAJR104K020RNJ
+Added Member To Class: ClassName=U_Ethernet Member=Component C38 C0603X104K5RACTU
+Added Member To Class: ClassName=U_MicroSD Member=Component C40 C0603X104K5RACTU
+Added Room: Name=U_ChargerCAN
+Added Room: Name=U_Ethernet
+Added Room: Name=U_IMU
+Added Room: Name=U_MainConnector
+Added Room: Name=U_MicroSD
+Added Room: Name=U_Oscillator
+Added Room: Name=U_POWER
+Added Room: Name=U_Programming
+Added Room: Name=U_STM32F417VGT6TR
+Added Room: Name=U_VehicleCAN

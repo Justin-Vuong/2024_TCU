@@ -1,0 +1,15 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Justin\Desktop\WFE\2024_TCU\2024_TCU.PcbDoc
+Date     : 1/23/2024
+Time     : 3:38:57 PM
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=30mil) (InNetClass('ETH_RX'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
