@@ -1,0 +1,53 @@
+Added Component: Designator=IC2(QFP50P900X900X160-48N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/dp83848c.pdf?ts=1623408916131&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DDP83848CVV%252FNOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DP83848CVV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DP83848CVV?qs=7X5t%252BdzoRHD7qwP%2FAptr%2Fg%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "926-DP83848CVV/NOPB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MII_TX_CLK Pin=IC2-1
+Added Pin To Net: NetName=MII_TX_EN Pin=IC2-2
+Added Pin To Net: NetName=MII_TXD0 Pin=IC2-3
+Added Pin To Net: NetName=MII_TXD1 Pin=IC2-4
+Added Pin To Net: NetName=MII_TXD2 Pin=IC2-5
+Added Pin To Net: NetName=MII_TXD3 Pin=IC2-6
+Added Pin To Net: NetName=NetIC2_7 Pin=IC2-7
+Added Pin To Net: NetName=RX_N Pin=IC2-13
+Added Pin To Net: NetName=RX_P Pin=IC2-14
+Added Pin To Net: NetName=GND Pin=IC2-15
+Added Pin To Net: NetName=TX_N Pin=IC2-16
+Added Pin To Net: NetName=TX_P Pin=IC2-17
+Added Pin To Net: NetName=PFBIN1 Pin=IC2-18
+Added Pin To Net: NetName=GND Pin=IC2-19
+Added Pin To Net: NetName=RES_2 Pin=IC2-20
+Added Pin To Net: NetName=RES_1 Pin=IC2-21
+Added Pin To Net: NetName=AVDD33 Pin=IC2-22
+Added Pin To Net: NetName=PFBIN1 Pin=IC2-23
+Added Pin To Net: NetName=NetIC2_24 Pin=IC2-24
+Added Pin To Net: NetName=LED_ACT/AN_EN Pin=IC2-26
+Added Pin To Net: NetName=LED_SPEED/AN1 Pin=IC2-27
+Added Pin To Net: NetName=LED_LINK/AN0 Pin=IC2-28
+Added Pin To Net: NetName=NetIC2_29 Pin=IC2-29
+Added Pin To Net: NetName=MII_MDIO Pin=IC2-30
+Added Pin To Net: NetName=MII_MDC Pin=IC2-31
+Added Pin To Net: NetName=AVDD33 Pin=IC2-32
+Added Pin To Net: NetName=ETH_CLK Pin=IC2-34
+Added Pin To Net: NetName=GND Pin=IC2-35
+Added Pin To Net: NetName=GND Pin=IC2-36
+Added Pin To Net: NetName=PFBIN1 Pin=IC2-37
+Added Pin To Net: NetName=MII_RX_CLK Pin=IC2-38
+Added Pin To Net: NetName=MII_RX_DV Pin=IC2-39
+Added Pin To Net: NetName=MII_CRS Pin=IC2-40
+Added Pin To Net: NetName=NetIC2_41 Pin=IC2-41
+Added Pin To Net: NetName=MII_COL Pin=IC2-42
+Added Pin To Net: NetName=MII_RX_D0 Pin=IC2-43
+Added Pin To Net: NetName=MII_RX_D1 Pin=IC2-44
+Added Pin To Net: NetName=MII_RX_D2 Pin=IC2-45
+Added Pin To Net: NetName=MII_RX_D3 Pin=IC2-46
+Added Pin To Net: NetName=GND Pin=IC2-47
+Added Pin To Net: NetName=AVDD33 Pin=IC2-48
+Added Member To Class: ClassName=U_Ethernet Member=Component IC2 DP83848CVV
