@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=SPI_MISO Pin=IC1-15
+Removed Pin From Net: NetName=SPI_MISO Pin=R13-2
+Removed Pin From Net: NetName=SPI_MISO Pin=R14-2
+Removed Pin From Net: NetName=SPI_MISO Pin=TP6-1
+Removed Member From Class: ClassName=U_IMU Member=TP7
+Removed Member From Class: ClassName=U_IMU Member=TP8
+Removed Member From Class: ClassName=U_IMU Member=TP9
+Change Net Name : Old Net Name=SPI_MISO New Net Name=NetIC1_10
+Change Net Name : Old Net Name=SPI_SCLK New Net Name=SCL
+Added Pin To Net: NetName=NetIC1_15 Pin=IC1-15
+Added Pin To Net: NetName=NetIC1_15 Pin=R13-2
+Added Pin To Net: NetName=NetIC1_15 Pin=R14-2
+Added Net: Name=NetIC1_15
+Added Pin To Net: NetName=SDA Pin=IC1-9
+Added Pin To Net: NetName=SDA Pin=R10-1
+Added Pin To Net: NetName=SDA Pin=TP6-1
+Added Net: Name=SDA

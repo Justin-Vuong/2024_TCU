@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=CAN_CONNA_H Pin=J3-1
+Removed Pin From Net: NetName=CAN_CONNA_L Pin=J3-2
+Removed Pin From Net: NetName=CAN_CONNB_H Pin=J3-3
+Removed Pin From Net: NetName=CAN_CONNB_L Pin=J3-4
+Removed Pin From Net: NetName=NetJ3_5 Pin=J3-5
+Removed Pin From Net: NetName=NetJ3_6 Pin=J3-6
+Removed Member From Class: ClassName=U_STM32F417VGT6TR Member=C2
+Removed Member From Class: ClassName=U_STM32F417VGT6TR Member=C3
+Removed Member From Class: ClassName=U_Ethernet Member=DS1
+Removed Member From Class: ClassName=U_Oscillator Member=R4
+Removed Member From Class: ClassName=U_MicroSD Member=R41
+Removed Member From Class: ClassName=U_IMU Member=TP3
+Added Pin To Net: NetName=CAN_CONNB_H Pin=J3-1
+Added Pin To Net: NetName=CAN_CONNA_H Pin=J3-2
+Added Pin To Net: NetName=CAN_CONNB_L Pin=J3-6
+Added Pin To Net: NetName=CAN_CONNA_L Pin=J3-7
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-8
+Added Pin To Net: NetName=NetJ3_5 Pin=J3-9
+Change Net Name : Old Net Name=NetJ3_5 New Net Name=NetJ3_9
+Change Net Name : Old Net Name=NetJ3_6 New Net Name=NetJ3_8
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=U2-54
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=U2-53
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ3_5 Pin=J3-5
+Added Pin To Net: NetName=NetJ3_5 Pin=U2-40
+Added Net: Name=NetJ3_5
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component C4 C0603C225K4PACTU
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component C5 C0603C225K4PACTU
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component C14 C0603X104K5RACTU
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component C15 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Ethernet Member=Component C35 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Ethernet Member=Component C36 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Ethernet Member=Component DS2 HSMG-C170
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component R3 CRCW12062K00JNEA
+Added Member To Class: ClassName=U_Oscillator Member=Component R5 CR0402-FX-1211GLF
+Added Member To Class: ClassName=U_IMU Member=Component R7 RC0805JR-100RL
+Added Member To Class: ClassName=U_IMU Member=Component R9 RC0805JR-100RL
+Added Member To Class: ClassName=U_IMU Member=Component R11 RC0805JR-100RL
+Added Member To Class: ClassName=U_IMU Member=Component R13 RC0805JR-100RL
+Added Member To Class: ClassName=U_Ethernet Member=Component R15 CRCW060350R0FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R17 CRCW060350R0FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R19 CRCW060350R0FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R21 CRCW060350R0FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R23 CRCW060350R0FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R25 KTR18EZPF1501
+Added Member To Class: ClassName=U_Ethernet Member=Component R27 CRCW060350R0FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R30 RC0603FR-072K2L
+Added Member To Class: ClassName=U_Ethernet Member=Component R32 CRCW06034K87FKEAHP
+Added Member To Class: ClassName=U_Ethernet Member=Component R34 CRCW060350R0FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R36 CRCW060350R0FKEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R38 CRCW0603750RJNEA
+Added Member To Class: ClassName=U_Ethernet Member=Component R40 CRCW0201143RFNED
+Added Member To Class: ClassName=U_MicroSD Member=Component R42 RK73H2BTTD4702F
+Added Member To Class: ClassName=U_MicroSD Member=Component R44 RK73H2BTTD4702F
+Added Member To Class: ClassName=U_MicroSD Member=Component R46 RK73H2BTTD4702F
+Added Member To Class: ClassName=U_MicroSD Member=Component R48 RC0603JR-0710KL
+Added Member To Class: ClassName=U_IMU Member=Component TP4 5012
