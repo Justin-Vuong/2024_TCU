@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CAN_CONNB_H Pin=J3-1
+Removed Pin From Net: NetName=CAN_CONNB_L Pin=J3-6
+Added Pin To Net: NetName=CAN_CONNB_L Pin=J3-1
+Added Pin To Net: NetName=CAN_CONNB_H Pin=J3-6
+Added Member To Class: ClassName=U_STM32F417VGT6TR Member=Component C8 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Ethernet Member=Component C28 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Ethernet Member=Component C29 C0603X104K5RACTU

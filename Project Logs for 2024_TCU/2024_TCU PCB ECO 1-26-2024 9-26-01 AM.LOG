@@ -1,0 +1,23 @@
+Added Component: Designator=J3(776267-1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "776267-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/776267-1/te-connectivity?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=776267&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "776267-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-776267-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/776267-1?qs=tLAa1RwIH6fSgzpmDTOXQA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_CONNB_H Pin=J3-1
+Added Pin To Net: NetName=CAN_CONNA_L Pin=J3-2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_5 Pin=J3-5
+Added Pin To Net: NetName=CAN_CONNB_L Pin=J3-6
+Added Pin To Net: NetName=CAN_CONNA_H Pin=J3-7
+Added Pin To Net: NetName=NetJ3_8 Pin=J3-8
+Added Pin To Net: NetName=NetJ3_8 Pin=J3-9
+Added Pin To Net: NetName=NetF1_2 Pin=J3-10
+Added Pin To Net: NetName=NetDS3_1 Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=12V Pin=J3-13
+Added Pin To Net: NetName=GND Pin=J3-14
+Added Member To Class: ClassName=U_MainConnector Member=Component J3 776267-1

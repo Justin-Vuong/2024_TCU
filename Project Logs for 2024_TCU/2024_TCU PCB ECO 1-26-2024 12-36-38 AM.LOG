@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=CAN_CONNA_H Pin=J3-2
+Removed Pin From Net: NetName=CAN_CONNA_L Pin=J3-7
+Added Pin To Net: NetName=AVDD33 Pin=J2-A2
+Added Pin To Net: NetName=CAN_CONNA_L Pin=J3-2
+Added Pin To Net: NetName=CAN_CONNA_H Pin=J3-7
+Added Member To Class: ClassName=U_Ethernet Member=Component C25 C0603X104K5RACTU
+Added Member To Class: ClassName=U_Ethernet Member=Component C26 CC0603KRX7R9BB103
+Added Room: Name=U_ChargerCAN
+Added Room: Name=U_Ethernet
+Added Room: Name=U_IMU
+Added Room: Name=U_MainConnector
+Added Room: Name=U_MicroSD
+Added Room: Name=U_Oscillator
+Added Room: Name=U_POWER
+Added Room: Name=U_Programming
+Added Room: Name=U_STM32F417VGT6TR
+Added Room: Name=U_VehicleCAN

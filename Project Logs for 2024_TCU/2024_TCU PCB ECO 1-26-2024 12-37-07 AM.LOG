@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CAN_CONNA_H Pin=J3-2
+Removed Pin From Net: NetName=CAN_CONNA_L Pin=J3-7
+Added Pin To Net: NetName=AVDD33 Pin=J2-A2
+Added Pin To Net: NetName=CAN_CONNA_L Pin=J3-2
+Added Pin To Net: NetName=CAN_CONNA_H Pin=J3-7
