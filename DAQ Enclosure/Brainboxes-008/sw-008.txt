@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"ethernet_ports";"8";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"SUPPLIER";"Brainboxes Limited";"";
+"form_factor";"Wall Mounted";"";
+"TraceParts.PartNumber";"90-04082021-039686";"";
+"operating_temperature_range";"-10 °C to +60 °C / 14 °F to +140 °F";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Port 8 Unmanaged Ethernet Switch Wall Mountable";"";
+"TraceParts.InstanceId";"90-04082021-03968678P2ST6ENTHNY6M228NL8S6AD";"";
+"ethernet_speed";"10/100 Fast Ethernet";"";
+"TraceParts.PartTitle";"Port 8 Unmanaged Ethernet Switch Wall Mountable";"";
+"REFERENCE";"SW-008";"";
+"power_input";"5V - 30V DC input, reverse polarity protected";"";
+"power_consumption";"1.1 Watts Max : 220 mAmps@+5VDC/36mAmps@+30VDC";"";
